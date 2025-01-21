@@ -1,0 +1,54 @@
+<Module>
+    <ModulePrefs title="ovo"/>
+    <Content type="html">
+        <![CDATA[
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Collapsible Group</title>
+            <style>
+                .collapsible {
+                    background-color: #f1f1f1;
+                    color: #333;
+                    cursor: pointer;
+                    padding: 18px;
+                    width: 100%;
+                    border: none;
+                    text-align: left;
+                    outline: none;
+                    font-size: 18px;
+                }
+                .collapsible:hover {
+                    background-color: #ccc;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>Collapsible Group</h1>
+
+            <!-- PJ Masks -->
+            <button class="collapsible" onclick="window.open('https://sites.google.com/view/unblocked-cartoons-googl/pj-masks', '_blank');">
+                PJ Masks
+            </button>
+
+            <!-- Avatar: The Legend of Korra -->
+            <button class="collapsible" onclick="window.open('https://sites.google.com/view/unblocked-cartoons-googl/avatar-the-legend-of-korra', '_blank');">
+                Avatar: The Legend of Korra
+            </button>
+
+            <!-- Special Agent Oso -->
+            <button class="collapsible" onclick="window.open('https://sites.google.com/view/unblocked-cartoons-googl/special-agent-oso', '_blank');">
+                Special Agent Oso
+            </button>
+
+            <!-- PJ Masks Songs -->
+            <button class="collapsible" onclick="window.open('https://sites.google.com/view/unblocked-cartoons-googl/pj-masks-songs', '_blank');">
+                PJ Masks Songs
+            </button>
+        </body>
+        </html>
+        ]]>
+    </Content>
+</Module>
